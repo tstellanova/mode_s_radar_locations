@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          -78.55041111111112,
+          41.07026666666667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Du Bois",
+        "faa_id": "QCF",
+        "type": "ARSR-3",
+        "range": "200 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -73.76642777777778,
           40.63962222222222
         ],
