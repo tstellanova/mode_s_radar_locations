@@ -10,6 +10,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AALBORG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -26,6 +30,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AARHUS",
                 "range": "120 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -42,6 +50,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "AGADIR",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -58,6 +67,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AITANA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -74,6 +87,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AKDAG-IZMIR",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -90,6 +107,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AKOUDA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -106,6 +127,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "ALANSHILL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -121,6 +146,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ALCOLEA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -137,6 +166,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ANTALYA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -153,6 +186,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ARMENIA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -169,6 +206,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "AS PONTES",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -185,6 +226,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ASMARA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -201,6 +246,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ASWAN",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -217,6 +266,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ASYUT",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -233,6 +286,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "AUCH-LIAS",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -249,6 +303,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "AUERSBERG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -265,6 +323,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "AVRANCHES-GATHEMO",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -280,6 +339,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BARCELONA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -296,6 +359,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BASPINAR",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -312,6 +379,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BATMAN",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -328,6 +399,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BEEK",
                 "range": "60 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -344,6 +419,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BEGAS",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -360,6 +439,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "BELFAST",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -375,6 +458,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "ARTZAMENDI-BIARRITZ",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -391,6 +475,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "BORDEAUX-LESTIAC",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -405,6 +490,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "BOULOGNE-VAUDRIGHEIM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -419,6 +505,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "BR___",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -434,6 +521,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BREMEN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -449,6 +540,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "BROCKEN",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -465,6 +560,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "BURRINGTON",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -480,6 +576,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "BUSCHBERG",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -495,6 +595,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "CAIRO-1",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -511,6 +615,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "CAIRO-2",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -527,6 +635,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "CANCHO BLANCO",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -543,6 +655,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "CASABLANCA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -559,6 +672,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "CHARLES-DE-GAULLE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -574,6 +688,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "CIRAVA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -590,6 +708,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "CIRFONTAINES-CHAUMONT",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -605,6 +724,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "CLAXBY",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -620,6 +743,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "CLEE HILL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -635,6 +762,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "COLOGNE-BONN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -650,6 +781,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "CONSTANTINA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -666,6 +801,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "COUBRON",
                 "range": "170 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -682,6 +818,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "CROMER",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -697,6 +834,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DALAMAN",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -713,6 +854,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "DEBDEN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -728,6 +873,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "DEISTER",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -744,6 +893,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DEN HELDER",
                 "range": "176 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -760,6 +913,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DINGLI",
                 "range": "260 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -776,6 +933,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DOONCARTON",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -791,6 +952,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DRESDEN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -806,6 +971,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "DUBLIN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -821,6 +990,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "D\u00fcSSELDORF S\u00fcD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -836,6 +1006,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "EELDE",
                 "range": "60 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -852,6 +1026,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ERGLI",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -868,6 +1046,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ERILLAS",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -884,6 +1066,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ERMENEK",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -900,6 +1086,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ERZURUM",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -916,6 +1106,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ESBJERG",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -932,6 +1126,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ESPINERAS",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -948,6 +1146,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "EVJE",
                 "range": "255 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -964,6 +1166,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "FAROER",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -980,6 +1186,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "FEICHTBERG",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -995,6 +1205,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "FERIHEGY",
                 "range": "80 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1011,6 +1225,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "FOIA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1027,6 +1245,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "FRANKFURT NORD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1042,6 +1264,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "FRANKFURT S\u00fcD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1057,6 +1280,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "GANDO",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1073,6 +1300,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GATWICK",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1088,6 +1316,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "GDANSK",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1104,6 +1336,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "GLASGOW",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1119,6 +1355,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "GOLENIOW",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1135,6 +1375,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GOSHEIM",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1151,6 +1392,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GRAN CANARIA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1167,6 +1409,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GRASSE-HAUT MONET",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1182,6 +1425,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "GRAZ",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1197,6 +1444,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "GREAT DUN FELL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1211,6 +1462,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GRENOBLE-FOURS",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1226,6 +1478,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "GRO\u00dfHAAGER FORST",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1242,6 +1495,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "G\u00f6KCEDAG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1258,6 +1515,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "HAMBURG",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1273,6 +1534,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "HANNOVER",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1288,6 +1553,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "HEATHROW",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1303,6 +1572,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "HERWIJNEN",
                 "range": "192 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1319,6 +1592,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "HURGHADA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1335,6 +1612,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "IFRANE",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1351,6 +1629,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "INOGES",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1367,6 +1649,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ISTANBUL",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1383,6 +1669,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "JAVORNIK",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1398,6 +1688,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KARADAG",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1414,6 +1708,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KASTRUP1",
                 "range": "120 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1430,6 +1728,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KASTRUP2",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1446,6 +1748,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KAUNAS",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1462,6 +1768,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KERKIRA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1478,6 +1788,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KITHIRA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1494,6 +1808,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KLAIPEDA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1510,6 +1828,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KOLOMANNSBERG",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1525,6 +1847,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KOPAONIK",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1541,6 +1867,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KORALPE SPEIKKOGEL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1556,6 +1886,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KORCIK",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1572,6 +1906,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KOSEVAC",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1588,6 +1926,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KOVIONA",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1604,6 +1946,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KOZJAK",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1620,6 +1966,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KURILOVEC",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1636,6 +1986,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KUYUTEPE",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1652,6 +2006,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "K\u00f6RISHEGY",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1668,6 +2026,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "K\u00fcC\u00fcKSUNGURTEPE",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1684,6 +2046,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LA PALMA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1700,6 +2066,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LANZAROTE",
                 "range": "220 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1716,6 +2086,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "LE GRAND BALLON",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1731,6 +2102,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LEIPZIG",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1746,6 +2121,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "LIMOGES-MONTE DE BLOND",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1761,6 +2137,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LINZ",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1776,6 +2156,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LISBOA",
                 "range": "240 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1792,6 +2176,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LJUBLJANA",
                 "range": "160 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1808,6 +2196,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LJUBLJANSKI MTN",
                 "range": "240 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1824,6 +2216,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "LOWTHER HILL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1839,6 +2235,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LUQA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1855,6 +2255,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "LUXOR",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1871,6 +2275,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "LYON AEROPORT",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1886,6 +2291,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "L\u00fcDENSCHEID",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1902,6 +2311,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MALAGA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1917,6 +2330,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "MARSEILLE-AEROPORT",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -1932,6 +2346,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MARTNA",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1948,6 +2366,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MENDERES",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1964,6 +2386,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MERSA MATRUH",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1980,6 +2406,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MERZIFON",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -1996,6 +2426,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "MITTERSBERG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2012,6 +2446,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MONFLORITE",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2028,6 +2466,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "MONT VENTOUX",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2043,6 +2482,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "MONTE INCUDINE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2058,6 +2498,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MONTEJUNTO",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2073,6 +2517,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "MONTHODON-TOURS",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2088,6 +2533,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "MONTPELLIER",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2104,6 +2550,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MOTRIL",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2120,6 +2570,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MOUNT GABRIEL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2135,6 +2589,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "MURTENICA",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2151,6 +2609,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "M\u00fcNCHEN NORD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2166,6 +2628,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "M\u00fcNCHEN S\u00fcD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2181,6 +2647,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "M\u00fcNSTER",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2196,6 +2666,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "NEUBRANDENBURG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2212,6 +2686,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "NEUNKIRCHER H\u00f6HE",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2228,6 +2703,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "NEVERS-TELEGRAPHE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2242,6 +2718,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "NICE-AEROPORT",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2257,6 +2734,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "NORDHOLZ",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2273,6 +2751,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "OKECIE",
                 "range": "60 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2289,6 +2771,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "PALAISEAU",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2304,6 +2787,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PALMA",
                 "range": "120 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2320,6 +2807,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PARACUELLOS-1",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2336,6 +2827,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "PEASE POTTAGE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2351,6 +2846,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "PF\u00e4LZER WALD",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2367,6 +2866,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PORTO SANTO",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2383,6 +2886,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PORTO",
                 "range": "230 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2399,6 +2906,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "POZNAN",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2415,6 +2926,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PSUNJ",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2431,6 +2946,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "PULTUSK",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2447,6 +2966,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "P\u00fcSPOKLADANY",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2463,6 +2986,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "RANDA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2479,6 +3006,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "KEFLAVIK",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2495,6 +3026,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "RIGA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2511,6 +3046,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ROSKILDE",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2527,6 +3066,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "RZESZOW",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2543,6 +3086,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "SAFI",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2559,6 +3103,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SANTA MARIA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2575,6 +3123,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SCHIPHOL",
                 "range": "60 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2591,6 +3143,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "SCHMOOKSBERG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2607,6 +3160,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SCHWECHAT",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2622,6 +3179,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SCH\u00f6NEFELD",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2637,6 +3198,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SEVILLA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2652,6 +3217,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "SG___",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2667,6 +3233,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SHANNON",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2682,6 +3252,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SHARM EL SHEIKH",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2698,6 +3272,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SIDI ZID",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2714,6 +3292,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SKOPJE",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2730,6 +3312,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SKRYDSTRUP",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2746,6 +3332,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "SOLORZANO",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2761,6 +3351,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "ST MICHEL MONT MERCURE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2776,6 +3367,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "ST ANNES",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2791,6 +3386,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "STANSTED",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2806,6 +3405,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "STORNOWAY",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2821,6 +3424,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "STUTTGART",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2835,6 +3442,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "SUMBURGH",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2850,6 +3458,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TABORNO",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2866,6 +3478,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TALLINN",
                 "range": "256 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2882,6 +3498,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": false,
                 "name": "TAN-TAN",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2898,6 +3515,7 @@
                 "type": "Point"
             },
             "properties": {
+                "mode_s": true,
                 "name": "TEGEL",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2913,6 +3531,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TEMPELHOF",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2928,6 +3550,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TENERIFE SUR",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2944,6 +3570,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TEUFELSBERG",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2960,6 +3590,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TIRANA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -2976,6 +3610,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "TIREE",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -2991,6 +3629,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TUNIS",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3007,6 +3649,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "TURRILLAS",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3023,6 +3669,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "USTICA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3039,6 +3689,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "VALDESPINA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3055,6 +3709,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "VALENCIA",
                 "range": "150 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3071,6 +3729,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "VELKY BUCEN",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
             },
@@ -3086,6 +3748,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "VILLANUBLA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3102,6 +3768,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S is planned but unconfirmed."
+                ],
+                "mode_s": false,
                 "name": "VILNIUS",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3118,6 +3788,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "WARSZAWA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3134,6 +3808,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "WROCLAW",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3150,6 +3828,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "YAKLASMA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3166,6 +3848,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "YALOVA",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3182,6 +3868,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "YESILK\u00f6Y",
                 "range": "250 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3198,6 +3888,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ZARAGOZA",
                 "range": "200 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
@@ -3214,6 +3908,10 @@
                 "type": "Point"
             },
             "properties": {
+                "comments": [
+                    "Mode-S status is unknown."
+                ],
+                "mode_s": false,
                 "name": "ZVARTNOTS-YEREVAN",
                 "range": "120 NM",
                 "source": "http://jetvision.de/gm/radardirectory.shtml"
