@@ -3,6 +3,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "The Plains",
+        "faa_id": "QPL",
+        "type": "ARSR-3",
+        "range": "200 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.70308333333334,
+          38.88225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gibbsboro",
         "faa_id": "QIE",
         "type": "ARSR-4",
