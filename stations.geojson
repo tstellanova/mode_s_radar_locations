@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          -72.96799,
+          42.47472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cummington",
+        "faa_id": "QHA",
+        "type": "AN/FPS-67B",
+        "range": "200 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -70.05439,
           42.03455
         ],
