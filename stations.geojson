@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          -70.05439,
+          42.03455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "North Truro",
+        "faa_id": "QEA",
+        "type": "ARSR-4",
+        "range": "250 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -78.55041111111112,
           41.07026666666667
         ],
