@@ -1,6 +1,24 @@
 {
   "features": [
     {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibbsboro",
+        "faa_id": "QIE",
+        "type": "ARSR-4",
+        "range": "250 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "geometry": {
+        "coordinates": [
+            -74.95414333333333,
+          39.82477055555555
+        ],
+        "type": "Point"
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           -72.96799,
