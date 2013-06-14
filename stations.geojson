@@ -94,7 +94,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "LCH",
+            "faa_id": "LCHA",
             "mode_s": true,
             "name": "Lake Charles",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -519,7 +519,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "LAX",
+            "faa_id": "LAXN",
             "mode_s": true,
             "name": "Los Angeles (North)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -536,7 +536,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "LAX",
+            "faa_id": "LAXS",
             "mode_s": true,
             "name": "Los Angeles (South)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -978,7 +978,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ORD",
+            "faa_id": "ORDN",
             "mode_s": true,
             "name": "Chicago - North",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -995,7 +995,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ORD",
+            "faa_id": "ORDS",
             "mode_s": true,
             "name": "Chicago - South",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1012,7 +1012,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ORD",
+            "faa_id": "ORDW",
             "mode_s": true,
             "name": "Chicago - West",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1046,7 +1046,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "IND",
+            "faa_id": "INDA",
             "mode_s": true,
             "name": "Indianapolis",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1182,7 +1182,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "BOS",
+            "faa_id": "BOS1",
             "mode_s": true,
             "name": "Lincoln Labs (Test Facility)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1233,7 +1233,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "BWI",
+            "faa_id": "BWI1",
             "mode_s": true,
             "name": "Northrop Grumman (Test @BWI)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1250,7 +1250,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "PAX",
+            "faa_id": "PAX1",
             "mode_s": true,
             "name": "Patuxant River (Navy Test)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1267,7 +1267,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "CUM",
+            "faa_id": "CUMB",
             "mode_s": true,
             "name": "Portland (Cumberland)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1301,7 +1301,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "DTW",
+            "faa_id": "DTWA",
             "mode_s": true,
             "name": "Detroit (Romulus)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1318,7 +1318,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "DTW",
+            "faa_id": "DTWC",
             "mode_s": true,
             "name": "Detroit (Northville)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1403,7 +1403,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "STL",
+            "faa_id": "STL2",
             "mode_s": true,
             "name": "St Louis #2",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1505,7 +1505,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "MHT",
+            "faa_id": "MHTT",
             "mode_s": true,
             "name": "Manchester (Chester)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1556,7 +1556,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ACY",
+            "faa_id": "ACYT",
             "mode_s": true,
             "name": "FAATC ModeS/ASR9 Test (Bldg 270)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1828,7 +1828,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "OKC",
+            "faa_id": "OKCA",
             "mode_s": true,
             "name": "Oklahoma City (Will Rogers)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1862,7 +1862,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "OKC",
+            "faa_id": "OKC2",
             "mode_s": true,
             "name": "FAA Academy (Mode S)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1879,7 +1879,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "OKC",
+            "faa_id": "OKC3",
             "mode_s": true,
             "name": "FAA (Mode S Depot)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -1947,7 +1947,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "PIT",
+            "faa_id": "PITA",
             "mode_s": true,
             "name": "Pittsburgh",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2219,7 +2219,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "DFW",
+            "faa_id": "DFWA",
             "mode_s": true,
             "name": "Dallas/Ft. Worth (West)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2236,7 +2236,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "SAT",
+            "faa_id": "SATA",
             "mode_s": true,
             "name": "San Antonio",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2253,7 +2253,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "SLC",
+            "faa_id": "SLCA",
             "mode_s": true,
             "name": "Salt Lake City",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2440,7 +2440,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "PSC",
+            "faa_id": "PSCA",
             "mode_s": true,
             "name": "Pasco",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2457,7 +2457,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "SEA",
+            "faa_id": "SEAB",
             "mode_s": true,
             "name": "Seattle (Tacoma #2)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -2797,7 +2797,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "AMA",
+            "faa_id": "AMAA",
             "mode_s": true,
             "name": "Amarillo",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3001,7 +3001,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "PHX",
+            "faa_id": "PHXA",
             "mode_s": true,
             "name": "Phoenix (Humboldt Mt)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3222,7 +3222,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ATL",
+            "faa_id": "ATLA",
             "mode_s": true,
             "name": "Marietta (Atlanta)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3528,7 +3528,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "STL",
+            "faa_id": "STLA",
             "mode_s": true,
             "name": "St. Louis (Overland)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3647,7 +3647,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "ACY",
+            "faa_id": "ACYE",
             "mode_s": true,
             "name": "FAATC, Elwood LRR (ATCBI-6/Mode S)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3749,7 +3749,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "SYR",
+            "faa_id": "SYRA",
             "mode_s": true,
             "name": "Syracuse (FPS-117 @ LMC)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -3851,7 +3851,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "OKC",
+            "faa_id": "OKC4",
             "mode_s": true,
             "name": "FAA Academy (ATCBI-6)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -4242,7 +4242,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "SEA",
+            "faa_id": "SEAA",
             "mode_s": true,
             "name": "Seattle (Ft.Lawton)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -5398,7 +5398,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "CYM",
+            "faa_id": "CYMJ",
             "mode_s": true,
             "name": "Moose Jaw (Saskatchewan)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
@@ -5415,7 +5415,7 @@
             "type": "Point"
         },
         "properties": {
-            "faa_id": "HIL",
+            "faa_id": "HILL",
             "mode_s": true,
             "name": "Hill AFB (EFAC/FPS-117/UPX-39)",
             "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
