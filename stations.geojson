@@ -3,6 +3,24 @@
         {
             "geometry": {
                 "coordinates": [
+                  42.63836055555556,
+                  77.65306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+              "name": "Buffalo (Dansville)",
+              "faa_id": "DSV",
+              "type": "ARSR-1E",
+              "range": "200 NM",
+              "mode_s": false,
+              "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     9.85583056,
                     57.0910444,
                     5
