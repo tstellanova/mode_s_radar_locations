@@ -5426,23 +5426,6 @@
     {
       "geometry": {
         "coordinates": [
-          -106.88305555555554,
-          39.23155555555556
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "faa_id": "ASE",
-        "mode_s": true,
-        "name": "Aspen",
-        "source": "ftp://www.aos.tc.faa.gov/AJW145/Incoming/Temp_drop_JY/Spectrum/prf/Site%20ID/working_03mar10(CONUS-NavC).txt",
-        "type": "TER-MDS"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -119.84233333333333,
           34.42397222222222
         ],
