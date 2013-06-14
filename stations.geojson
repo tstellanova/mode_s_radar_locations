@@ -3,6 +3,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Benton",
+        "faa_id": "QRC",
+        "type": "AN/FPS-67B",
+        "range": "200 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.29298777777778,
+          41.35740416666667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "The Plains",
         "faa_id": "QPL",
         "type": "ARSR-3",
