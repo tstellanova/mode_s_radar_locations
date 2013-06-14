@@ -1,0 +1,2912 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.0910444, 
+                    9.85583056, 
+                    5
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AALBORG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    56.2988889, 
+                    10.6208333, 
+                    98
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AARHUS", 
+                "range": 120
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    30.319264, 
+                    -9.411136, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AGADIR"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.650822, 
+                    -0.238972, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AITANA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.555078, 
+                    26.503285, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AKDAG-IZMIR"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    35.893393, 
+                    10.562996, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AKOUDA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    57.691978, 
+                    -2.022314, 
+                    55
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ALANSHILL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.042887, 
+                    -2.472256, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ALCOLEA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.897645, 
+                    30.774188, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ANTALYA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.054177, 
+                    44.27345, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ARMENIA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.454888, 
+                    -7.815745, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AS PONTES"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.285427, 
+                    38.90688, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ASMARA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    23.976754, 
+                    32.779793, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ASWAN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.058851, 
+                    31.018645, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ASYUT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.562485, 
+                    1.135678, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AUCH-LIAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.455658, 
+                    12.64883, 
+                    3300
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AUERSBERG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.769113, 
+                    -0.984694, 
+                    1113
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "AVRANCHES-GATHEMO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.305077, 
+                    2.073239, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BARCELONA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.087742, 
+                    32.810821, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BASPINAR"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.884899, 
+                    41.283655, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BATMAN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.9080556, 
+                    5.761389, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BEEK", 
+                "range": 60
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.291544, 
+                    1.909948, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BEGAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.654036, 
+                    -6.225499, 
+                    212
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BELFAST"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.283479, 
+                    -1.408442, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ARTZAMENDI-BIARRITZ"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    44.698017, 
+                    -0.371397, 
+                    259
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BORDEAUX-LESTIAC"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.718102, 
+                    1.611449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BOULOGNE-VAUDRIGHEIM"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.44, 
+                    -4.41
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BR___"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.034369, 
+                    8.799379, 
+                    10
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BREMEN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.8, 
+                    10.615534, 
+                    3735
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BROCKEN", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.933919, 
+                    -3.939526, 
+                    527
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BURRINGTON"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.576822, 
+                    16.395692, 
+                    1600
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "BUSCHBERG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    30.120844, 
+                    31.398325, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CAIRO-1"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    30.106725, 
+                    31.413571, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CAIRO-2"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.2148444, 
+                    -6.037773, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CANCHO BLANCO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    33.356568, 
+                    -7.611666, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CASABLANCA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    49.007457, 
+                    2.538193, 
+                    330
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CHARLES-DE-GAULLE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    56.736696, 
+                    21.366305, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CIRAVA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.105397, 
+                    4.849511, 
+                    1100
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CIRFONTAINES-CHAUMONT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.220849, 
+                    0.171318, 
+                    100
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CLAXBY"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.374559, 
+                    -2.600337, 
+                    1200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CLEE HILL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.867545, 
+                    7.144707, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "COLOGNE-BONN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.873247, 
+                    -5.622938, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CONSTANTINA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.924113, 
+                    2.567971, 
+                    380
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "COUBRON", 
+                "range": 170
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.928618, 
+                    1.29864, 
+                    20
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "CROMER"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.707756, 
+                    28.781967, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DALAMAN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.97749, 
+                    0.2631951213, 
+                    350
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DEBDEN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.25295, 
+                    9.492707, 
+                    1300
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DEISTER", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.9167, 
+                    4.78333, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DEN HELDER", 
+                "range": 176
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    35.85273, 
+                    14.381187, 
+                    260
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DINGLI"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.273184, 
+                    -9.826523, 
+                    870
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DOONCARTON"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.140493, 
+                    13.76169, 
+                    717
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DRESDEN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.428196, 
+                    -6.244809, 
+                    240
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "DUBLIN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.280377, 
+                    6.773248, 
+                    120
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "D\u00fcSSELDORF S\u00fcD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.1186111, 
+                    6.581389, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "EELDE", 
+                "range": 60
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    56.9511722, 
+                    25.750925, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ERGLI"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.248669, 
+                    -5.311547, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ERILLAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.641153, 
+                    32.912623, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ERMENEK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.152388, 
+                    41.551388, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ERZURUM"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.5287833, 
+                    8.55437222, 
+                    85
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ESBJERG", 
+                "range": 250
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    42.481962, 
+                    -8.704187, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ESPINERAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    58.6310528, 
+                    7.91260278, 
+                    2021
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "EVJE", 
+                "range": 255
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    62.128904, 
+                    -7.010631, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FAROER"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.430135, 
+                    13.686677, 
+                    2000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FEICHTBERG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.4474475, 
+                    19.263013, 
+                    80
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FERIHEGY"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.313611, 
+                    -8.600278, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FOIA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.046585, 
+                    8.55255, 
+                    350
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FRANKFURT NORD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.022948, 
+                    8.539491, 
+                    350
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "FRANKFURT S\u00fcD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.924741, 
+                    -15.395989, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GANDO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.160878, 
+                    -0.177092, 
+                    195
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GATWICK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.382601, 
+                    18.461002, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GDANSK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.871054, 
+                    -4.433849, 
+                    7
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GLASGOW"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.585222, 
+                    14.91362, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GOLENIOW"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.132401, 
+                    8.775889, 
+                    3200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GOSHEIM", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.96307, 
+                    -15.571085, 
+                    6140
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GRAN CANARIA", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.715871, 
+                    6.929976, 
+                    4274
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GRASSE-HAUT MONET"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.994257, 
+                    15.444554, 
+                    1100
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GRAZ"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.683979, 
+                    -2.448236, 
+                    2720
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GREAT DUN FELL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.31, 
+                    5.77
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GRENOBLE-FOURS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.136147, 
+                    12.050877, 
+                    2000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "GRO\u00dfHAAGER FORST", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.126125, 
+                    36.623534, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "G\u00f6KCEDAG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.62978, 
+                    10.007356, 
+                    60
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "HAMBURG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.472158, 
+                    9.67949, 
+                    180
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "HANNOVER"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.4707703, 
+                    -0.453127, 
+                    88
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "HEATHROW"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.836976, 
+                    5.138294, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "HERWIJNEN", 
+                "range": 192
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.054533, 
+                    33.836244, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "HURGHADA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    33.530951, 
+                    -5.156894, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "IFRANE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.373374, 
+                    -1.495856, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "INOGES"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.017024, 
+                    28.826654, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ISTANBUL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.857756, 
+                    17.675214, 
+                    3200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "JAVORNIK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.914055, 
+                    39.123666, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KARADAG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.61225, 
+                    12.6264444, 
+                    30
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KASTRUP1", 
+                "range": 120
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.5989222, 
+                    12.6061417, 
+                    10
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KASTRUP2", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.9619972, 
+                    24.0819111, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KAUNAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.550246, 
+                    19.88031, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KERKIRA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.226965, 
+                    22.941288, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KITHIRA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.7175305, 
+                    21.2527333, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KLAIPEDA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.876887, 
+                    13.276586, 
+                    3600
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KOLOMANNSBERG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.266918, 
+                    20.826506, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KOPAONIK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.788331, 
+                    14.973333, 
+                    6700
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KORALPE SPEIKKOGEL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.440196, 
+                    38.821952, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KORCIK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.163089, 
+                    20.186176, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KOSEVAC"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    44.587117, 
+                    20.546693, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KOVIONA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.571385, 
+                    16.405807, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KOZJAK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.703544, 
+                    16.085962, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KURILOVEC"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.559984, 
+                    30.388844, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KUYUTEPE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.2941556, 
+                    17.7535806, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "K\u00f6RISHEGY"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.299244, 
+                    27.756059, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "K\u00fcC\u00fcKSUNGURTEPE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.619229, 
+                    -17.759904, 
+                    259
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LA PALMA", 
+                "range": 250
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    29.120107, 
+                    -13.520946, 
+                    2157
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LANZAROTE", 
+                "range": 220
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.902535, 
+                    7.09955, 
+                    4600
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LE GRAND BALLON"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.423625, 
+                    12.237116, 
+                    430
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LEIPZIG"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.024336, 
+                    1.013081, 
+                    1550
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LIMOGES-MONTE DE BLOND"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.238825, 
+                    14.192863, 
+                    1000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LINZ"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.763889, 
+                    -9.138889, 
+                    240
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LISBOA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.222678, 
+                    14.470876, 
+                    160
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LJUBLJANA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.930893, 
+                    14.298105, 
+                    240
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LJUBLJANSKI MTN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.384904, 
+                    -3.744098, 
+                    2377
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LOWTHER HILL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    35.852087, 
+                    14.472007, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LUQA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    25.666551, 
+                    32.713745, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LUXOR"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.720392, 
+                    5.07963, 
+                    800
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "LYON AEROPORT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.267731, 
+                    7.630796, 
+                    1700
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "L\u00fcDENSCHEID", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.674123, 
+                    -4.49692, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MALAGA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.445128, 
+                    5.213313
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MARSEILLE-AEROPORT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    58.8513889, 
+                    23.8138889, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MARTNA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.290104, 
+                    27.166486, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MENDERES"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    31.302397, 
+                    27.141874, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MERSA MATRUH"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.953908, 
+                    35.391529, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MERZIFON"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    49.360198, 
+                    11.563175, 
+                    2000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MITTERSBERG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    42.085542, 
+                    -0.325296, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONFLORITE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    44.173725, 
+                    5.278163, 
+                    6200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONT VENTOUX"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.851982, 
+                    9.208611, 
+                    6800
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONTE INCUDINE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.173113, 
+                    -9.048137, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONTEJUNTO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.64987, 
+                    0.836789
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONTHODON-TOURS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.577416, 
+                    3.958046, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MONTPELLIER"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.746868, 
+                    -3.529847, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MOTRIL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.560568, 
+                    -9.542718, 
+                    1140
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MOUNT GABRIEL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.589547, 
+                    19.79243, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "MURTENICA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.371153, 
+                    11.795331, 
+                    1500
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "M\u00fcNCHEN NORD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.31528, 
+                    11.796789, 
+                    1500
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "M\u00fcNCHEN S\u00fcD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.130318, 
+                    7.69088, 
+                    160
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "M\u00fcNSTER"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.596301, 
+                    13.311785, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "NEUBRANDENBURG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    49.725945, 
+                    8.77493, 
+                    2000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "NEUNKIRCHER H\u00f6HE", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.0141, 
+                    3.305806, 
+                    1000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "NEVERS-TELEGRAPHE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.664674, 
+                    7.204443
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "NICE-AEROPORT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.756623, 
+                    8.658295, 
+                    100
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "NORDHOLZ", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.165362, 
+                    20.945984, 
+                    60
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "OKECIE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.71669, 
+                    2.236155, 
+                    500
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PALAISEAU"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.548689, 
+                    2.732744, 
+                    120
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PALMA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.49181, 
+                    -3.521583, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PARACUELLOS-1"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.083398, 
+                    -0.202462, 
+                    443
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PEASE POTTAGE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    49.31717, 
+                    7.863023, 
+                    2000
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PF\u00e4LZER WALD", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    33.08445, 
+                    -16.324727, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PORTO SANTO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.247024, 
+                    -8.685643, 
+                    230
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PORTO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.420578, 
+                    16.827187, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "POZNAN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    45.38479, 
+                    17.335192, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PSUNJ"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.7031, 
+                    21.090214, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "PULTUSK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.3563611, 
+                    21.0441833, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "P\u00fcSPOKLADANY"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.526025, 
+                    2.929668, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "RANDA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    63.988188, 
+                    -22.587229, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "KEFLAVIK"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    56.929125, 
+                    23.9513528, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "RIGA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.5866222, 
+                    12.1092389, 
+                    129
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ROSKILDE", 
+                "range": 250
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    50.114491, 
+                    22.028695, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "RZESZOW"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    32.318419, 
+                    -9.245754, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SAFI"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.979569, 
+                    -25.091036, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SANTA MARIA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.3, 
+                    4.816667, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SCHIPHOL", 
+                "range": 60
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.83833, 
+                    12.3834, 
+                    400
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SCHMOOKSBERG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.104229, 
+                    16.560869, 
+                    700
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SCHWECHAT"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.350769, 
+                    13.537397, 
+                    130
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SCH\u00f6NEFELD"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.423629, 
+                    -5.90016, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SEVILLA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    47.84, 
+                    -3.26
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SG___"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.700971, 
+                    -8.920334, 
+                    0
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SHANNON"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.977934, 
+                    34.391678, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SHARM EL SHEIKH"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.475018, 
+                    10.324666, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SIDI ZID"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.960385, 
+                    21.642007, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SKOPJE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    55.2608333, 
+                    9.22444444, 
+                    210
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SKRYDSTRUP", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    43.321334, 
+                    -3.562563, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SOLORZANO"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    46.827119, 
+                    -0.894833
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ST MICHEL MONT MERCURE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    53.772718, 
+                    -3.035434, 
+                    30
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ST ANNES"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.885353, 
+                    0.254653, 
+                    300
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "STANSTED"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    58.210276, 
+                    -6.35647, 
+                    64
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "STORNOWAY"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.68742, 
+                    9.204569, 
+                    1300
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "STUTTGART"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    59.877811, 
+                    -1.288687
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "SUMBURGH"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.534425, 
+                    -16.249047, 
+                    2740
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TABORNO", 
+                "range": 250
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    59.397433, 
+                    24.834523, 
+                    256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TALLINN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.4781, 
+                    -11.202, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TAN-TAN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.563627, 
+                    13.2791, 
+                    116
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TEGEL"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.482614, 
+                    13.399539, 
+                    150
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TEMPELHOF"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    28.046482, 
+                    -16.586267, 
+                    274
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TENERIFE SUR", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.497118, 
+                    13.239667, 
+                    323
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TEUFELSBERG", 
+                "range": 200
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.418236, 
+                    19.712319, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TIRANA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    56.500064, 
+                    -6.87138, 
+                    10
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TIREE"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    36.859856, 
+                    10.241391, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TUNIS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    37.029059, 
+                    -2.263969, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "TURRILLAS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    38.707534, 
+                    13.177662, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "USTICA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    42.132821, 
+                    -4.425079, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "VALDESPINA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48569, 
+                    -0.48299, 
+                    150
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "VALENCIA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    48.288954, 
+                    19.862086, 
+                    1144
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "VELKY BUCEN"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.699614, 
+                    -4.853522, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "VILLANUBLA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    54.633233, 
+                    25.295312, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "VILNIUS"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    52.162338, 
+                    20.959853, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "WARSZAWA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    51.110454, 
+                    16.874132, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "WROCLAW"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.139948, 
+                    32.991653, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "YAKLASMA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.565425, 
+                    29.371344, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "YALOVA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.983096, 
+                    28.801929, 
+                    250
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "YESILK\u00f6Y"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    41.650389, 
+                    -1.05339, 
+                    200
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ZARAGOZA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    40.145791, 
+                    44.397822, 
+                    120
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "ZVARTNOTS-YEREVAN"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
