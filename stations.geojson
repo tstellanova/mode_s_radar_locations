@@ -1,6 +1,24 @@
 {
-    "features": [
-        {
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -74.18571277777778,
+          40.673273611111114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Newark",
+        "faa_id": "EWR",
+        "type": "ARS-9",
+        "range": "60 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "type": "Feature"
+    },
+      {
             "geometry": {
                 "coordinates": [
                   -77.65306,
@@ -13,7 +31,7 @@
               "faa_id": "DSV",
               "type": "ARSR-1E",
               "range": "200 NM",
-              "mode_s": false,
+              "mode_s": true,
               "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
             },
             "type": "Feature"
