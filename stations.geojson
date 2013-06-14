@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          -73.76642777777778,
+          40.63962222222222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "New York",
+        "faa_id": "JFK",
+        "type": "ASR-9",
+        "range": "60 NM",
+        "mode_s": true,
+        "source": "http://forums.radioreference.com/aircraft-data-decoding/214748-atc-radar-sites-2.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -73.71541111111111,
           41.072786111111114
         ],
