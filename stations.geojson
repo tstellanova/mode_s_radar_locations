@@ -11,7 +11,8 @@
             }, 
             "properties": {
                 "name": "AALBORG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -26,7 +27,8 @@
             }, 
             "properties": {
                 "name": "AARHUS", 
-                "range": "120 NM"
+                "range": "120 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -41,7 +43,8 @@
             }, 
             "properties": {
                 "name": "AGADIR", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -56,7 +59,8 @@
             }, 
             "properties": {
                 "name": "AITANA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -71,7 +75,8 @@
             }, 
             "properties": {
                 "name": "AKDAG-IZMIR", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -86,7 +91,8 @@
             }, 
             "properties": {
                 "name": "AKOUDA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -100,7 +106,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "ALANSHILL"
+                "name": "ALANSHILL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -115,7 +122,8 @@
             }, 
             "properties": {
                 "name": "ALCOLEA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -130,7 +138,8 @@
             }, 
             "properties": {
                 "name": "ANTALYA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -145,7 +154,8 @@
             }, 
             "properties": {
                 "name": "ARMENIA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -160,7 +170,8 @@
             }, 
             "properties": {
                 "name": "AS PONTES", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -175,7 +186,8 @@
             }, 
             "properties": {
                 "name": "ASMARA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -190,7 +202,8 @@
             }, 
             "properties": {
                 "name": "ASWAN", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -205,7 +218,8 @@
             }, 
             "properties": {
                 "name": "ASYUT", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -220,7 +234,8 @@
             }, 
             "properties": {
                 "name": "AUCH-LIAS", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -235,7 +250,8 @@
             }, 
             "properties": {
                 "name": "AUERSBERG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -249,7 +265,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "AVRANCHES-GATHEMO"
+                "name": "AVRANCHES-GATHEMO", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -264,7 +281,8 @@
             }, 
             "properties": {
                 "name": "BARCELONA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -279,7 +297,8 @@
             }, 
             "properties": {
                 "name": "BASPINAR", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -294,7 +313,8 @@
             }, 
             "properties": {
                 "name": "BATMAN", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -309,7 +329,8 @@
             }, 
             "properties": {
                 "name": "BEEK", 
-                "range": "60 NM"
+                "range": "60 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -324,7 +345,8 @@
             }, 
             "properties": {
                 "name": "BEGAS", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -338,7 +360,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BELFAST"
+                "name": "BELFAST", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -353,7 +376,8 @@
             }, 
             "properties": {
                 "name": "ARTZAMENDI-BIARRITZ", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -367,7 +391,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BORDEAUX-LESTIAC"
+                "name": "BORDEAUX-LESTIAC", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -380,7 +405,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BOULOGNE-VAUDRIGHEIM"
+                "name": "BOULOGNE-VAUDRIGHEIM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -393,7 +419,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BR___"
+                "name": "BR___", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -407,7 +434,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BREMEN"
+                "name": "BREMEN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -422,7 +450,8 @@
             }, 
             "properties": {
                 "name": "BROCKEN", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -436,7 +465,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BURRINGTON"
+                "name": "BURRINGTON", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -450,7 +480,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "BUSCHBERG"
+                "name": "BUSCHBERG", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -465,7 +496,8 @@
             }, 
             "properties": {
                 "name": "CAIRO-1", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -480,7 +512,8 @@
             }, 
             "properties": {
                 "name": "CAIRO-2", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -495,7 +528,8 @@
             }, 
             "properties": {
                 "name": "CANCHO BLANCO", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -510,7 +544,8 @@
             }, 
             "properties": {
                 "name": "CASABLANCA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -524,7 +559,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "CHARLES-DE-GAULLE"
+                "name": "CHARLES-DE-GAULLE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -539,7 +575,8 @@
             }, 
             "properties": {
                 "name": "CIRAVA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -553,7 +590,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "CIRFONTAINES-CHAUMONT"
+                "name": "CIRFONTAINES-CHAUMONT", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -567,7 +605,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "CLAXBY"
+                "name": "CLAXBY", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -581,7 +620,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "CLEE HILL"
+                "name": "CLEE HILL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -595,7 +635,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "COLOGNE-BONN"
+                "name": "COLOGNE-BONN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -610,7 +651,8 @@
             }, 
             "properties": {
                 "name": "CONSTANTINA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -625,7 +667,8 @@
             }, 
             "properties": {
                 "name": "COUBRON", 
-                "range": "170 NM"
+                "range": "170 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -639,7 +682,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "CROMER"
+                "name": "CROMER", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -654,7 +698,8 @@
             }, 
             "properties": {
                 "name": "DALAMAN", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -668,7 +713,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "DEBDEN"
+                "name": "DEBDEN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -683,7 +729,8 @@
             }, 
             "properties": {
                 "name": "DEISTER", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -698,7 +745,8 @@
             }, 
             "properties": {
                 "name": "DEN HELDER", 
-                "range": "176 NM"
+                "range": "176 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -713,7 +761,8 @@
             }, 
             "properties": {
                 "name": "DINGLI", 
-                "range": "260 NM"
+                "range": "260 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -727,7 +776,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "DOONCARTON"
+                "name": "DOONCARTON", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -741,7 +791,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "DRESDEN"
+                "name": "DRESDEN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -755,7 +806,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "DUBLIN"
+                "name": "DUBLIN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -769,7 +821,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "D\u00fcSSELDORF S\u00fcD"
+                "name": "D\u00fcSSELDORF S\u00fcD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -784,7 +837,8 @@
             }, 
             "properties": {
                 "name": "EELDE", 
-                "range": "60 NM"
+                "range": "60 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -799,7 +853,8 @@
             }, 
             "properties": {
                 "name": "ERGLI", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -814,7 +869,8 @@
             }, 
             "properties": {
                 "name": "ERILLAS", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -829,7 +885,8 @@
             }, 
             "properties": {
                 "name": "ERMENEK", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -844,7 +901,8 @@
             }, 
             "properties": {
                 "name": "ERZURUM", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -859,7 +917,8 @@
             }, 
             "properties": {
                 "name": "ESBJERG", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -874,7 +933,8 @@
             }, 
             "properties": {
                 "name": "ESPINERAS", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -889,7 +949,8 @@
             }, 
             "properties": {
                 "name": "EVJE", 
-                "range": "255 NM"
+                "range": "255 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -904,7 +965,8 @@
             }, 
             "properties": {
                 "name": "FAROER", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -918,7 +980,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "FEICHTBERG"
+                "name": "FEICHTBERG", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -933,7 +996,8 @@
             }, 
             "properties": {
                 "name": "FERIHEGY", 
-                "range": "80 NM"
+                "range": "80 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -948,7 +1012,8 @@
             }, 
             "properties": {
                 "name": "FOIA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -962,7 +1027,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "FRANKFURT NORD"
+                "name": "FRANKFURT NORD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -976,7 +1042,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "FRANKFURT S\u00fcD"
+                "name": "FRANKFURT S\u00fcD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -991,7 +1058,8 @@
             }, 
             "properties": {
                 "name": "GANDO", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1005,7 +1073,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GATWICK"
+                "name": "GATWICK", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1020,7 +1089,8 @@
             }, 
             "properties": {
                 "name": "GDANSK", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1034,7 +1104,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GLASGOW"
+                "name": "GLASGOW", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1049,7 +1120,8 @@
             }, 
             "properties": {
                 "name": "GOLENIOW", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1064,7 +1136,8 @@
             }, 
             "properties": {
                 "name": "GOSHEIM", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1079,7 +1152,8 @@
             }, 
             "properties": {
                 "name": "GRAN CANARIA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1093,7 +1167,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GRASSE-HAUT MONET"
+                "name": "GRASSE-HAUT MONET", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1107,7 +1182,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GRAZ"
+                "name": "GRAZ", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1121,7 +1197,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GREAT DUN FELL"
+                "name": "GREAT DUN FELL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1134,7 +1211,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "GRENOBLE-FOURS"
+                "name": "GRENOBLE-FOURS", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1149,7 +1227,8 @@
             }, 
             "properties": {
                 "name": "GRO\u00dfHAAGER FORST", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1164,7 +1243,8 @@
             }, 
             "properties": {
                 "name": "G\u00f6KCEDAG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1178,7 +1258,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "HAMBURG"
+                "name": "HAMBURG", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1192,7 +1273,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "HANNOVER"
+                "name": "HANNOVER", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1206,7 +1288,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "HEATHROW"
+                "name": "HEATHROW", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1221,7 +1304,8 @@
             }, 
             "properties": {
                 "name": "HERWIJNEN", 
-                "range": "192 NM"
+                "range": "192 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1236,7 +1320,8 @@
             }, 
             "properties": {
                 "name": "HURGHADA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1251,7 +1336,8 @@
             }, 
             "properties": {
                 "name": "IFRANE", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1266,7 +1352,8 @@
             }, 
             "properties": {
                 "name": "INOGES", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1281,7 +1368,8 @@
             }, 
             "properties": {
                 "name": "ISTANBUL", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1295,7 +1383,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "JAVORNIK"
+                "name": "JAVORNIK", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1310,7 +1399,8 @@
             }, 
             "properties": {
                 "name": "KARADAG", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1325,7 +1415,8 @@
             }, 
             "properties": {
                 "name": "KASTRUP1", 
-                "range": "120 NM"
+                "range": "120 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1340,7 +1431,8 @@
             }, 
             "properties": {
                 "name": "KASTRUP2", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1355,7 +1447,8 @@
             }, 
             "properties": {
                 "name": "KAUNAS", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1370,7 +1463,8 @@
             }, 
             "properties": {
                 "name": "KERKIRA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1385,7 +1479,8 @@
             }, 
             "properties": {
                 "name": "KITHIRA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1400,7 +1495,8 @@
             }, 
             "properties": {
                 "name": "KLAIPEDA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1414,7 +1510,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "KOLOMANNSBERG"
+                "name": "KOLOMANNSBERG", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1429,7 +1526,8 @@
             }, 
             "properties": {
                 "name": "KOPAONIK", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1443,7 +1541,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "KORALPE SPEIKKOGEL"
+                "name": "KORALPE SPEIKKOGEL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1458,7 +1557,8 @@
             }, 
             "properties": {
                 "name": "KORCIK", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1473,7 +1573,8 @@
             }, 
             "properties": {
                 "name": "KOSEVAC", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1488,7 +1589,8 @@
             }, 
             "properties": {
                 "name": "KOVIONA", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1503,7 +1605,8 @@
             }, 
             "properties": {
                 "name": "KOZJAK", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1518,7 +1621,8 @@
             }, 
             "properties": {
                 "name": "KURILOVEC", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1533,7 +1637,8 @@
             }, 
             "properties": {
                 "name": "KUYUTEPE", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1548,7 +1653,8 @@
             }, 
             "properties": {
                 "name": "K\u00f6RISHEGY", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1563,7 +1669,8 @@
             }, 
             "properties": {
                 "name": "K\u00fcC\u00fcKSUNGURTEPE", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1578,7 +1685,8 @@
             }, 
             "properties": {
                 "name": "LA PALMA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1593,7 +1701,8 @@
             }, 
             "properties": {
                 "name": "LANZAROTE", 
-                "range": "220 NM"
+                "range": "220 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1607,7 +1716,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LE GRAND BALLON"
+                "name": "LE GRAND BALLON", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1621,7 +1731,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LEIPZIG"
+                "name": "LEIPZIG", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1635,7 +1746,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LIMOGES-MONTE DE BLOND"
+                "name": "LIMOGES-MONTE DE BLOND", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1649,7 +1761,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LINZ"
+                "name": "LINZ", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1664,7 +1777,8 @@
             }, 
             "properties": {
                 "name": "LISBOA", 
-                "range": "240 NM"
+                "range": "240 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1679,7 +1793,8 @@
             }, 
             "properties": {
                 "name": "LJUBLJANA", 
-                "range": "160 NM"
+                "range": "160 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1694,7 +1809,8 @@
             }, 
             "properties": {
                 "name": "LJUBLJANSKI MTN", 
-                "range": "240 NM"
+                "range": "240 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1708,7 +1824,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LOWTHER HILL"
+                "name": "LOWTHER HILL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1723,7 +1840,8 @@
             }, 
             "properties": {
                 "name": "LUQA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1738,7 +1856,8 @@
             }, 
             "properties": {
                 "name": "LUXOR", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1752,7 +1871,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "LYON AEROPORT"
+                "name": "LYON AEROPORT", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1767,7 +1887,8 @@
             }, 
             "properties": {
                 "name": "L\u00fcDENSCHEID", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1782,7 +1903,8 @@
             }, 
             "properties": {
                 "name": "MALAGA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1795,7 +1917,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "MARSEILLE-AEROPORT"
+                "name": "MARSEILLE-AEROPORT", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1810,7 +1933,8 @@
             }, 
             "properties": {
                 "name": "MARTNA", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1825,7 +1949,8 @@
             }, 
             "properties": {
                 "name": "MENDERES", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1840,7 +1965,8 @@
             }, 
             "properties": {
                 "name": "MERSA MATRUH", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1855,7 +1981,8 @@
             }, 
             "properties": {
                 "name": "MERZIFON", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1870,7 +1997,8 @@
             }, 
             "properties": {
                 "name": "MITTERSBERG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1885,7 +2013,8 @@
             }, 
             "properties": {
                 "name": "MONFLORITE", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1899,7 +2028,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "MONT VENTOUX"
+                "name": "MONT VENTOUX", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1913,7 +2043,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "MONTE INCUDINE"
+                "name": "MONTE INCUDINE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1928,7 +2059,8 @@
             }, 
             "properties": {
                 "name": "MONTEJUNTO", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1941,7 +2073,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "MONTHODON-TOURS"
+                "name": "MONTHODON-TOURS", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1956,7 +2089,8 @@
             }, 
             "properties": {
                 "name": "MONTPELLIER", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1971,7 +2105,8 @@
             }, 
             "properties": {
                 "name": "MOTRIL", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -1985,7 +2120,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "MOUNT GABRIEL"
+                "name": "MOUNT GABRIEL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2000,7 +2136,8 @@
             }, 
             "properties": {
                 "name": "MURTENICA", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2014,7 +2151,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "M\u00fcNCHEN NORD"
+                "name": "M\u00fcNCHEN NORD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2028,7 +2166,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "M\u00fcNCHEN S\u00fcD"
+                "name": "M\u00fcNCHEN S\u00fcD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2042,7 +2181,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "M\u00fcNSTER"
+                "name": "M\u00fcNSTER", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2057,7 +2197,8 @@
             }, 
             "properties": {
                 "name": "NEUBRANDENBURG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2072,7 +2213,8 @@
             }, 
             "properties": {
                 "name": "NEUNKIRCHER H\u00f6HE", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2086,7 +2228,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "NEVERS-TELEGRAPHE"
+                "name": "NEVERS-TELEGRAPHE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2099,7 +2242,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "NICE-AEROPORT"
+                "name": "NICE-AEROPORT", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2114,7 +2258,8 @@
             }, 
             "properties": {
                 "name": "NORDHOLZ", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2129,7 +2274,8 @@
             }, 
             "properties": {
                 "name": "OKECIE", 
-                "range": "60 NM"
+                "range": "60 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2143,7 +2289,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "PALAISEAU"
+                "name": "PALAISEAU", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2158,7 +2305,8 @@
             }, 
             "properties": {
                 "name": "PALMA", 
-                "range": "120 NM"
+                "range": "120 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2173,7 +2321,8 @@
             }, 
             "properties": {
                 "name": "PARACUELLOS-1", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2187,7 +2336,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "PEASE POTTAGE"
+                "name": "PEASE POTTAGE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2202,7 +2352,8 @@
             }, 
             "properties": {
                 "name": "PF\u00e4LZER WALD", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2217,7 +2368,8 @@
             }, 
             "properties": {
                 "name": "PORTO SANTO", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2232,7 +2384,8 @@
             }, 
             "properties": {
                 "name": "PORTO", 
-                "range": "230 NM"
+                "range": "230 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2247,7 +2400,8 @@
             }, 
             "properties": {
                 "name": "POZNAN", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2262,7 +2416,8 @@
             }, 
             "properties": {
                 "name": "PSUNJ", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2277,7 +2432,8 @@
             }, 
             "properties": {
                 "name": "PULTUSK", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2292,7 +2448,8 @@
             }, 
             "properties": {
                 "name": "P\u00fcSPOKLADANY", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2307,7 +2464,8 @@
             }, 
             "properties": {
                 "name": "RANDA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2322,7 +2480,8 @@
             }, 
             "properties": {
                 "name": "KEFLAVIK", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2337,7 +2496,8 @@
             }, 
             "properties": {
                 "name": "RIGA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2352,7 +2512,8 @@
             }, 
             "properties": {
                 "name": "ROSKILDE", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2367,7 +2528,8 @@
             }, 
             "properties": {
                 "name": "RZESZOW", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2382,7 +2544,8 @@
             }, 
             "properties": {
                 "name": "SAFI", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2397,7 +2560,8 @@
             }, 
             "properties": {
                 "name": "SANTA MARIA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2412,7 +2576,8 @@
             }, 
             "properties": {
                 "name": "SCHIPHOL", 
-                "range": "60 NM"
+                "range": "60 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2427,7 +2592,8 @@
             }, 
             "properties": {
                 "name": "SCHMOOKSBERG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2441,7 +2607,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "SCHWECHAT"
+                "name": "SCHWECHAT", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2455,7 +2622,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "SCH\u00f6NEFELD"
+                "name": "SCH\u00f6NEFELD", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2470,7 +2638,8 @@
             }, 
             "properties": {
                 "name": "SEVILLA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2483,7 +2652,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "SG___"
+                "name": "SG___", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2497,7 +2667,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "SHANNON"
+                "name": "SHANNON", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2512,7 +2683,8 @@
             }, 
             "properties": {
                 "name": "SHARM EL SHEIKH", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2527,7 +2699,8 @@
             }, 
             "properties": {
                 "name": "SIDI ZID", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2542,7 +2715,8 @@
             }, 
             "properties": {
                 "name": "SKOPJE", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2557,7 +2731,8 @@
             }, 
             "properties": {
                 "name": "SKRYDSTRUP", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2572,7 +2747,8 @@
             }, 
             "properties": {
                 "name": "SOLORZANO", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2585,7 +2761,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "ST MICHEL MONT MERCURE"
+                "name": "ST MICHEL MONT MERCURE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2599,7 +2776,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "ST ANNES"
+                "name": "ST ANNES", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2613,7 +2791,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "STANSTED"
+                "name": "STANSTED", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2627,7 +2806,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "STORNOWAY"
+                "name": "STORNOWAY", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2641,7 +2821,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "STUTTGART"
+                "name": "STUTTGART", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2654,7 +2835,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "SUMBURGH"
+                "name": "SUMBURGH", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2669,7 +2851,8 @@
             }, 
             "properties": {
                 "name": "TABORNO", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2684,7 +2867,8 @@
             }, 
             "properties": {
                 "name": "TALLINN", 
-                "range": "256 NM"
+                "range": "256 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2699,7 +2883,8 @@
             }, 
             "properties": {
                 "name": "TAN-TAN", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2713,7 +2898,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "TEGEL"
+                "name": "TEGEL", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2727,7 +2913,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "TEMPELHOF"
+                "name": "TEMPELHOF", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2742,7 +2929,8 @@
             }, 
             "properties": {
                 "name": "TENERIFE SUR", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2757,7 +2945,8 @@
             }, 
             "properties": {
                 "name": "TEUFELSBERG", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2772,7 +2961,8 @@
             }, 
             "properties": {
                 "name": "TIRANA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2786,7 +2976,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "TIREE"
+                "name": "TIREE", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2801,7 +2992,8 @@
             }, 
             "properties": {
                 "name": "TUNIS", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2816,7 +3008,8 @@
             }, 
             "properties": {
                 "name": "TURRILLAS", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2831,7 +3024,8 @@
             }, 
             "properties": {
                 "name": "USTICA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2846,7 +3040,8 @@
             }, 
             "properties": {
                 "name": "VALDESPINA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2861,7 +3056,8 @@
             }, 
             "properties": {
                 "name": "VALENCIA", 
-                "range": "150 NM"
+                "range": "150 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2875,7 +3071,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "name": "VELKY BUCEN"
+                "name": "VELKY BUCEN", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2890,7 +3087,8 @@
             }, 
             "properties": {
                 "name": "VILLANUBLA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2905,7 +3103,8 @@
             }, 
             "properties": {
                 "name": "VILNIUS", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2920,7 +3119,8 @@
             }, 
             "properties": {
                 "name": "WARSZAWA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2935,7 +3135,8 @@
             }, 
             "properties": {
                 "name": "WROCLAW", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2950,7 +3151,8 @@
             }, 
             "properties": {
                 "name": "YAKLASMA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2965,7 +3167,8 @@
             }, 
             "properties": {
                 "name": "YALOVA", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2980,7 +3183,8 @@
             }, 
             "properties": {
                 "name": "YESILK\u00f6Y", 
-                "range": "250 NM"
+                "range": "250 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -2995,7 +3199,8 @@
             }, 
             "properties": {
                 "name": "ZARAGOZA", 
-                "range": "200 NM"
+                "range": "200 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }, 
@@ -3010,7 +3215,8 @@
             }, 
             "properties": {
                 "name": "ZVARTNOTS-YEREVAN", 
-                "range": "120 NM"
+                "range": "120 NM", 
+                "source": "http://jetvision.de/gm/radardirectory.shtml"
             }, 
             "type": "Feature"
         }
