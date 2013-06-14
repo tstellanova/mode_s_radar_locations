@@ -30,5 +30,6 @@ Updates, corrections, additions
 -------------------------------
 
 To add a new station, add additional information to an existing
-station or correct mistakes in this data, [send a pull
+station or correct mistakes in this data, edit the `stations.geojson`
+file and send a pull
 request](https://help.github.com/articles/using-pull-requests).
